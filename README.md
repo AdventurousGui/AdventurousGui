@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on [stjiris/OCR](https://github.com/stjiris/OCR) as part of my Master's dissertation and internship at INESC-ID
+- 🔭 I’m currently working on [stjiris/OCR](https://github.com/stjiris/OCR) as part of my Master's dissertation and internship at INESC-ID. You can try it out [here!](https://iris.sysresearch.org/ocr-prod/)
 - 📫 How to reach me: guilherme.m.branco@tecnico.ulisboa.pt
 
 <div>
