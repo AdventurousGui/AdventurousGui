@@ -1,14 +1,19 @@
 ## Hi there 👋
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats-lime-beta-60.vercel.app/api?username=AdventurousGui&show_icons=true&theme=dracula" />
-</a>
+- 🔭 I’m currently working on [stjiris/OCR](https://github.com/stjiris/OCR) as part of my Master's dissertation and internship at INESC-ID
+- 📫 How to reach me: guilherme.m.branco@tecnico.ulisboa.pt
 
-<!--
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdventurousGui&theme=dracula&layout=compact&size_weight=0.5&count_weight=0.5" />
-</a>
--->
+<div>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats-lime-beta-60.vercel.app/api?username=AdventurousGui&show_icons=true&theme=dracula" />
+  </a>
+
+  <!--
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats-lime-beta-60.vercel.app/api/top-langs/?username=AdventurousGui&theme=dracula&layout=compact&size_weight=0.5&count_weight=0.5" />
+  </a>
+  -->
+</div>
 
 <!--
 **AdventurousGui/AdventurousGui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
