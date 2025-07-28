@@ -47,6 +47,8 @@
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" alt="Django" title="Django" width="45" height="45"/>
 
+  <img src="https://raw.githubusercontent.com/celery/celery/master/docs/images/celery_512.png" alt="Celery" title="Celery" width="45" height="45"/>
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" alt="NGINX" title="NGINX" width="45" height="45"/>
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" title="Jupyter" width="45" height="45"/>
